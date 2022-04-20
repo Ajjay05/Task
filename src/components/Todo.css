@@ -1,0 +1,14 @@
+.container{
+
+    display:flex;
+  
+    
+  }
+  
+
+  .row{
+
+    display: flex;
+    height:33px;
+    align-items: center;
+  }
